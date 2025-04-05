@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facilities</title>
+</head>
+<body>
+
+    <header>
+        <h1>Our Facilities</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="courses.html">Courses</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <h2>Facilities We Offer</h2>
+        <ul>
+            <li>Well-equipped Library</li>
+            <li>Modern Computer Labs</li>
+            <li>Sports Complex</li>
+            <li>Hostel Facilities</li>
+            <li>Auditorium & Seminar Halls</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Our College. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
